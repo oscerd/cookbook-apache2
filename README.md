@@ -1,4 +1,4 @@
-# apache2
+# Apache2 Cookbook
 
 Just an example of a simple cookbook
 
